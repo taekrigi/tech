@@ -1,1 +1,3 @@
 # tech
+
+All I learned
