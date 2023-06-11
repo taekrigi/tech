@@ -1,3 +1,3 @@
 # tech
 
-All I learned
+Tech Article, Blog, Youtube or Something Else
