@@ -6,5 +6,5 @@ https://www.youtube.com/watch?v=J-VP0WFEQsY
 
 - [x] deployment strategies
 - [ ] Distributed System Patterns
-- [] Cache Systems
+- [x] Cache Systems
 
