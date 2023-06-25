@@ -1,3 +1,3 @@
 # tech
 
-Tech Article, Blog, Youtube or Something Else
+Tech Article, Blog, Youtube or Something Else.
